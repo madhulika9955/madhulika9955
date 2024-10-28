@@ -43,11 +43,8 @@
 ## **Leatcode stats**
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=madhulika9955)
 
-# Welcome to My GitHub Profile
-
-## CodeChef Stats
-![CodeChef Stats](https://codechef-stats.vercel.app/api?username=abit231520113)
-
+## **Codechef stats**
+[![CodeChef](https://img.shields.io/badge/CodeChef-abit231520113-orange)](https://www.codechef.com/users/abit231520113)
 
 
 

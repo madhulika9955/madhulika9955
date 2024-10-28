@@ -47,6 +47,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-abit231520113-orange)](https://www.codechef.com/users/abit231520113)
 
 
+[![Credly](https://img.shields.io/badge/Credly-Madhulika_Singh-blue)](https://www.credly.com/users/madhulika-singh.711ec98d/edit)
 
 <!---
 madhulika9955/madhulika9955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

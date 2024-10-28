@@ -28,6 +28,10 @@
 ## **Streek counter**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhulika9955&layout=compact&theme=radical)
 
+## **Visitor counter**
+![Visitor Count](https://komarev.com/ghpvc/?username=madhulika9955&color=blue)
+
+
 ### 🌐 [LinkedIn Profile - Madhulika Singh](https://www.linkedin.com/in/madhulika-singh-a34b9a28b/)
 ### 🏆 [CodeChef Profile - abit231520113](https://www.codechef.com/users/abit231520113)
 ### 🧩 [LeetCode Profile - madhulika9955](https://leetcode.com/madhulika9955)

@@ -23,6 +23,7 @@
 ## **Github star**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhulikaSingh&show_icons=true&theme=radical)
 
+### 🌐 [LinkedIn Profile - Madhulika Singh](https://www.linkedin.com/in/madhulika-singh-a34b9a28b/)
 ### 🏆 [CodeChef Profile - abit231520113](https://www.codechef.com/users/abit231520113)
 ### 🧩 [LeetCode Profile - madhulika9955](https://leetcode.com/madhulika9955)
 

@@ -40,8 +40,11 @@
 ### 🏆 [CodeChef Profile - abit231520113](https://www.codechef.com/users/abit231520113)
 ### 🧩 [LeetCode Profile - madhulika9955](https://leetcode.com/madhulika9955)
 
-
+## **Leatcode stats**
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=madhulika9955)
+## **Codechef stats**
+![CodeChef Stats](https://codechef-stats.herokuapp.com/api?username=abit231520113)  
+
 
 <!---
 madhulika9955/madhulika9955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

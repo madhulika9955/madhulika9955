@@ -33,7 +33,7 @@
 
 ## **Github trophy**
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=madhulika9955&theme=onedark)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_madhulika9955&theme=dracula&no-frame=true&column=4)
+
 
 
 ### 🌐 [LinkedIn Profile - Madhulika Singh](https://www.linkedin.com/in/madhulika-singh-a34b9a28b/)

@@ -13,6 +13,7 @@
 ![C](https://img.shields.io/badge/C-language-darkgreen)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Intermediate-yellowgreen)
 
+## **Github star**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhulikaSingh&show_icons=true&theme=radical)
 
 <!---

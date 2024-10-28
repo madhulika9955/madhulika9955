@@ -46,8 +46,7 @@
 ## CodeChef Stats
 ![CodeChef Stats](https://codechef-stats.herokuapp.com/api?username=abit231520113)
 
-## CodeChef Stats
-![CodeChef Stats](https://codechef-stats.herokuapp.com/api?username=abit231520113)
+
 
 
 <!---

@@ -14,11 +14,12 @@
 - ⚡ Fun fact: I often listen to melancholic tunes when I need to reflect or gather my thoughts
 
 ## **Skills**
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![C](https://img.shields.io/badge/C-language-darkgreen)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Intermediate-yellowgreen)
+
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+![C](https://img.shields.io/badge/C-Intermediate-darkgreen)
+![DSA](https://img.shields.io/badge/DSA-Beginner-yellow)
 
 ## **Github star**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhulikaSingh&show_icons=true&theme=radical)

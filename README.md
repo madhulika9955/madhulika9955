@@ -1,3 +1,12 @@
+![GitHub ID](https://img.shields.io/badge/GitHub-madhulika9955-blue?style=flat-square&logo=github)
+### 👩‍💻 @madhulika9955
+[![GitHub: madhulika9955](https://img.shields.io/badge/GitHub-madhulika9955-black?style=for-the-badge&logo=github)](https://github.com/madhulika9955)
+## 🚀 **Welcome to my GitHub!**
+
+[![GitHub: madhulika9955](https://img.shields.io/badge/GitHub-madhulika9955-blue?style=for-the-badge&logo=github)](https://github.com/madhulika9955)
+
+
+
 ## **About**
 - 👋 Hi, I’m @madhulika9955
 - 👀 I’m interested in Web Devopment ,Python,C

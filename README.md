@@ -41,6 +41,7 @@
 ### 🧩 [LeetCode Profile - madhulika9955](https://leetcode.com/madhulika9955)
 
 
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=madhulika9955)
 
 <!---
 madhulika9955/madhulika9955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

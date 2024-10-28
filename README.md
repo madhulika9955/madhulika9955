@@ -8,6 +8,7 @@
 ## **About**
 - 👋 Hi, I’m @madhulika9955
 - 👀 I’m interested in Web Devopment ,Python,C
+- 🎓 AI and Machine Learning enthusiast
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate with different and unique projects and expand my network 
 - 📫 How to reach me smadhulika946@gmail.com

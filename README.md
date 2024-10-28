@@ -31,6 +31,9 @@
 ## **Visitor counter**
 ![Visitor Count](https://komarev.com/ghpvc/?username=madhulika9955&color=blue)
 
+## **Github trophy**
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=madhulika9955&theme=onedark)
+
 
 ### 🌐 [LinkedIn Profile - Madhulika Singh](https://www.linkedin.com/in/madhulika-singh-a34b9a28b/)
 ### 🏆 [CodeChef Profile - abit231520113](https://www.codechef.com/users/abit231520113)

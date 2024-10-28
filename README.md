@@ -27,6 +27,14 @@
 ### 🏆 [CodeChef Profile - abit231520113](https://www.codechef.com/users/abit231520113)
 ### 🧩 [LeetCode Profile - madhulika9955](https://leetcode.com/madhulika9955)
 
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+![C](https://img.shields.io/badge/C-Intermediate-darkgreen)
+![DSA](https://img.shields.io/badge/DSA-Beginner-yellow)
+## **Languages and Skills**
+
+![Skills Chart](path_to_image_in_repo/skills_chart.png)
 
 <!---
 madhulika9955/madhulika9955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@
 - 👀 I’m interested in Web Devopment ,Python,C
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate with different and unique projects and expand my network 
-- 📫 How to reach me smadhulika946@gmail.com 
+- 📫 How to reach me smadhulika946@gmail.com
 - ⚡ Fun fact: I often listen to melancholic tunes when I need to reflect or gather my thoughts
 
 ## **Skills**
@@ -22,6 +22,10 @@
 
 ## **Github star**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhulikaSingh&show_icons=true&theme=radical)
+
+### 🏆 [CodeChef Profile - abit231520113](https://www.codechef.com/users/abit231520113)
+### 🧩 [LeetCode Profile - madhulika9955](https://leetcode.com/madhulika9955)
+
 
 <!---
 madhulika9955/madhulika9955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

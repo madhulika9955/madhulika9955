@@ -32,9 +32,7 @@
 ![Python](https://img.shields.io/badge/Python-Advanced-green)
 ![C](https://img.shields.io/badge/C-Intermediate-darkgreen)
 ![DSA](https://img.shields.io/badge/DSA-Beginner-yellow)
-## **Languages and Skills**
 
-![Skills Chart](path_to_image_in_repo/skills_chart.png)
 
 <!---
 madhulika9955/madhulika9955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -48,10 +48,13 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-abit231520113-orange)](https://www.codechef.com/users/abit231520113)
 
 
-[![Credly](https://img.shields.io/badge/Credly-Madhulika_Singh-blue)](https://www.credly.com/users/madhulika-singh.711ec98d/edit)
+
 
 ## **HackerRank Profile**
 [![HackerRank](https://img.shields.io/badge/HackerRank-Developer-green?style=flat&logo=HackerRank)](https://www.hackerrank.com/madhulika9955)
+
+## **Credly badges
+[![Credly](https://img.shields.io/badge/Credly-Madhulika_Singh-blue)](https://www.credly.com/users/madhulika-singh.711ec98d/edit)
 
 
 <!---

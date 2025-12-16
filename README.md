@@ -39,7 +39,7 @@
 
 ### 🤖 AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-brightgreen)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Intermediate-purple)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Advanced-purple)
 
 ### 📚 Core Concepts
 ![OOP](https://img.shields.io/badge/OOP-Strong-blueviolet)

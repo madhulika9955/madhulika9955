@@ -18,11 +18,34 @@
 
 ## **Skills**
 
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+![Java](https://img.shields.io/badge/Java-Intermediate-red)
+![C](https://img.shields.io/badge/C-Intermediate-darkgreen)
+
+### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
-![Python](https://img.shields.io/badge/Python-Advanced-green)
-![C](https://img.shields.io/badge/C-Intermediate-darkgreen)
-![DSA](https://img.shields.io/badge/DSA-Beginner-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Intermediate-38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-7952B3)
+
+### 🛠️ Frameworks & Tools
+![Git](https://img.shields.io/badge/Git-Intermediate-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediate-black)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-brightgreen)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Intermediate-purple)
+
+### 📚 Core Concepts
+![OOP](https://img.shields.io/badge/OOP-Strong-blueviolet)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Beginner-yellow)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Intermediate-red)
+
 
 ## **Github star**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhulikaSingh&show_icons=true&theme=radical)

@@ -18,33 +18,15 @@
 
 ## **Skills**
 
-### 🧑‍💻 Languages
-![Python](https://img.shields.io/badge/Python-Advanced-green)
-![Java](https://img.shields.io/badge/Java-Advanced-blue)
-![C](https://img.shields.io/badge/C-Intermediate-darkgreen)
+| Category | Skills |
+|--------|--------|
+| 🧑‍💻 **Languages** | Python (Advanced), Java (Advanced), C (Intermediate) |
+| 🌐 **Web Development** | HTML (Advanced), CSS (Advanced), JavaScript (Advanced), Tailwind CSS (Advanced), Bootstrap (Advanced) |
+| 🛠️ **Frameworks & Tools** | Git, GitHub |
+| 🗄️ **Database** | MySQL (Advanced) |
+| 🤖 **AI / ML** | Machine Learning, Prompt Engineering |
+| 📚 **Core Concepts** | OOP, Data Structures, Cybersecurity |
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-Advanced-blue)
-![CSS](https://img.shields.io/badge/CSS-Advanced-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Advanced-pink)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-green)
-
-### 🛠️ Frameworks & Tools
-![Git](https://img.shields.io/badge/Git-Intermediate-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Intermediate-blue)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-green)
-
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-brightgreen)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Advanced-purple)
-
-### 📚 Core Concepts
-![OOP](https://img.shields.io/badge/OOP-Strong-blueviolet)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Advance-yellow)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Intermediate-red)
 
 
 ## **Github star**

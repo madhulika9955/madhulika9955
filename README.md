@@ -20,10 +20,10 @@
 
 | Category | Skills |
 |--------|--------|
-| 🧑‍💻 **Languages** | Python (Advanced), Java (Advanced), C (Intermediate) |
-| 🌐 **Web Development** | HTML (Advanced), CSS (Advanced), JavaScript (Advanced), Tailwind CSS (Advanced), Bootstrap (Advanced) |
+| 🧑‍💻 **Languages** | Python, Java, C |
+| 🌐 **Web Development** | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap |
 | 🛠️ **Frameworks & Tools** | Git, GitHub |
-| 🗄️ **Database** | MySQL (Advanced) |
+| 🗄️ **Database** | MySQL |
 | 🤖 **AI / ML** | Machine Learning, Prompt Engineering |
 | 📚 **Core Concepts** | OOP, Data Structures, Cybersecurity |
 

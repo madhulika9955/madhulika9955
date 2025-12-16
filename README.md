@@ -3,6 +3,9 @@
 
 [![GitHub: madhulika9955](https://img.shields.io/badge/GitHub-madhulika9955-blue?style=for-the-badge&logo=github)](https://github.com/madhulika9955)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&height=70&lines=Madhulika+Singh" />
+</p>
 
 
 ## **About**

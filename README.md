@@ -20,22 +20,22 @@
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-Advanced-green)
-![Java](https://img.shields.io/badge/Java-Intermediate-red)
+![Java](https://img.shields.io/badge/Java-Advanced-blue)
 ![C](https://img.shields.io/badge/C-Intermediate-darkgreen)
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Intermediate-38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-7952B3)
+![HTML](https://img.shields.io/badge/HTML-Advanced-blue)
+![CSS](https://img.shields.io/badge/CSS-Advanced-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Advanced-pink)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-green)
 
 ### 🛠️ Frameworks & Tools
 ![Git](https://img.shields.io/badge/Git-Intermediate-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Intermediate-black)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediate-blue)
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-green)
 
 ### 🤖 AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-brightgreen)
@@ -43,7 +43,7 @@
 
 ### 📚 Core Concepts
 ![OOP](https://img.shields.io/badge/OOP-Strong-blueviolet)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Beginner-yellow)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Advance-yellow)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Intermediate-red)
 
 

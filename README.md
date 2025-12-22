@@ -41,14 +41,6 @@
 ## 🏆 GitHub Trophies
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhulika9955&show_icons=true&theme=onedark)
 
-## 🏆 GitHub Trophy Wall
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=madhulika9955&theme=onedark&no-frame=false&margin-w=15&margin-h=15&column=5&row=2)
-
-
-
-
-
-
 
 
 ### 🌐 [LinkedIn Profile - Madhulika Singh](https://www.linkedin.com/in/madhulika-singh-a34b9a28b/)

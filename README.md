@@ -38,8 +38,10 @@
 ## **Visitor counter**
 ![Visitor Count](https://komarev.com/ghpvc/?username=madhulika9955&color=blue)
 
-## **Github trophy**
+## 🏆 GitHub Trophies
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=madhulika9955&theme=onedark)
+
 
 
 

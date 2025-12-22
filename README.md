@@ -40,7 +40,8 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=madhulika9955&theme=onedark&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=madhulika9955&v=1)
+
 
 
 

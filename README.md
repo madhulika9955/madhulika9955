@@ -39,8 +39,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=madhulika9955&color=blue)
 
 ## 🏆 GitHub Trophies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhulika9955&show_icons=true&theme=onedark)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=madhulika9955&v=1)
 
 
 

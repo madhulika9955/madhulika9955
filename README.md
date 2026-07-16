@@ -157,19 +157,6 @@ Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook • Postman
 
 ---
 
-## Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhulika9955&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhulika9955&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</p>
----
-
 ## Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=madhulika9955&theme=tokyo-night&hide_border=true)

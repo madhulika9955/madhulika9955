@@ -165,10 +165,11 @@ Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook • Postman
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=madhulika9955&theme=tokyonight&no-frame=true&margin-w=15)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=madhulika9955&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
 ---
 
 ## Contribution Graph

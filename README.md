@@ -205,8 +205,6 @@ Data Engineer | AI & ML Enthusiast | Full Stack Developer | B.Tech CSE (AI)
 
 # 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
-
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhulika9955&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>

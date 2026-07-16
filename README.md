@@ -344,6 +344,10 @@ Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook • Postman
 
 ![](https://raw.githubusercontent.com/madhulika9955/madhulika9955/output/github-contribution-grid-snake.svg)
 
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/madhulika9955/madhulika9955/output/github-contribution-grid-snake.svg)
 ---
 
 <p align="center">

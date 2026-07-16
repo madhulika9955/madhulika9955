@@ -147,11 +147,9 @@ Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook • Postman
 
 # 📊 GitHub Statistics
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=madhulika9955&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhulika9955&show_icons=true&theme=tokyonight&hide_border=true)---
 
 ## GitHub Streak
 

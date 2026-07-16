@@ -71,85 +71,175 @@ Data Engineer | AI & ML Enthusiast | Full Stack Developer | B.Tech CSE (AI)
 
 # 🚀 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 </p>
 
 ---
 
-### Web Development
+### 🌐 Web Development
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
-</p>
-
----
-
-### Databases
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 </p>
 
 ---
 
-### AI / ML
+### 🗄️ Databases
 
-- NumPy
-- Pandas
-- Scikit-Learn
-- TensorFlow
-- Keras
-- OpenCV
-- NLP
-- Matplotlib
-- Seaborn
+<p align="left">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
 
 ---
 
-### Tools
+### 📊 Data Engineering
 
-Git • GitHub • Docker • Linux • VS Code • Jupyter Notebook • Postman • Power BI • MS Excel
+<p align="left">
+
+<img src="https://img.shields.io/badge/ETL_Pipelines-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/NLP-673AB7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ⚙️ Tools & DevOps
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+</p>
+
+---
+
+### 📚 Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Machine Learning
+- SQL Query Optimization
+- ETL Pipelines
+- REST APIs
+- Data Cleaning
 
 ---
 
 # 📊 GitHub Statistics
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhulika9955&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhulika9955&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhulika9955&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=madhulika9955&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 📈 GitHub Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhulika9955&theme=tokyonight)
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhulika9955&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhulika9955&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhulika9955&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhulika9955&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
 
 ## GitHub Streak
 
